@@ -11,6 +11,6 @@ Console.Writeline("Hoping Github likes C#");
 
 ## <h2> Step 4, task lists!
 
-- [x] Add a task list
+- [ ] Add a task list
 - [ ] Preview how it looks
 - [ ] Commit
